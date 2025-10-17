@@ -1,8 +1,3 @@
-Perfect 👍 Here’s your **final, fully structured and corrected GitHub `README.md` file** — clean formatting, proper markdown alignment, and all sections displaying correctly on GitHub (no code block nesting issues).
-
-You can **copy this entire content** directly into your `README.md` file — it will render perfectly.
-
----
 
 # 🛒 React Shopping Cart — useReducer & Context API Practice
 
@@ -135,7 +130,6 @@ if (action.type === "ADD_ITEMS") {
 
 ![App Preview](public/preview.png)
 
-> 🖼️ _Save your screenshot as `preview.png` inside the `public/` folder to make it display here._
 
 ---
 
